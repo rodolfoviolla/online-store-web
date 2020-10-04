@@ -35,7 +35,7 @@ export default createGlobalStyle`
   }
 
   body, input, button {
-    font: 700 1.6rem 'Montserrat', sans-serif;
+    font: 700 1.4rem 'Montserrat', sans-serif;
     color: var(--color-black);
   }
 
